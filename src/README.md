@@ -1,6 +1,5 @@
-# Exercise
 
-REST ENDPOINTS
+REST API ENDPOINTS
 GET /tournaments  --find all tournaments
 GET /tournaments/{id}
 POST /tournaments
